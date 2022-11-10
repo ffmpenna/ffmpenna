@@ -1,4 +1,6 @@
-### Hi there 👋
+<a target="_blank" href='https://www.linkedin.com/in/fabio-penna-dev/' ><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='my  linkedin' height='25'/></a>
+
+### Hi there 👋 
 
 I'm a Full-Stack Web Developer student at <a href='https://www.linkedin.com/school/betrybe/'>Trybe</a>! I'm already graduated in front-end modules and back-end is my next goal.
 
