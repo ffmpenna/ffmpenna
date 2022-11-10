@@ -4,7 +4,7 @@
 
 ### I'm a Full-Stack Web Developer student at Trybe! I've already graduated in front-end modules and from now on back-end is my next goal.
 
-## Git stats
+## GitHub Stats
 
 <div>
  <img height="160em" width="400" src='https://github-readme-stats.vercel.app/api?username=ffmpenna&show_icons=true&theme=merko'/>
