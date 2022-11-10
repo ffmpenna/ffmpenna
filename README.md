@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a front-end developer formed at Trybe with back-end studies in progress.
+I'm a Full-Stack Web Developer student at Trybe! I'm already graduated in front-end modules and back-end is my next goal.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffmpenna&show_icons=true&theme=vue-dark)
 
