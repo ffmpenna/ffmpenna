@@ -2,7 +2,7 @@
 
 # Hey there! Welcome to my profile! 👋 
 
-### I'm a Full-Stack Web Developer student at <a href='https://www.linkedin.com/school/betrybe/?originalSubdomain=br'>Trybe</a>! I've already graduated in front-end modules and from now on back-end is my next goal.
+### I'm a Full-Stack Web Developer graduated at <a href='https://www.linkedin.com/school/betrybe/?originalSubdomain=br'>Trybe</a>!
 
 ## GitHub Stats
 
