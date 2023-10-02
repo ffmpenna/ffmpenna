@@ -1,21 +1,7 @@
 <a target="_blank" href='https://www.linkedin.com/in/fabio-penna-dev/' ><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='my  linkedin' height='25'/></a>
 
-# Hey there! Welcome to my profile! 👋 
-
-### I'm a Full-Stack Web Developer graduated from <a href='https://www.linkedin.com/school/betrybe/?originalSubdomain=br'>Trybe</a>!
-
-## GitHub Stats
-
-<div>
- <img height="160em" width="400" src='https://github-readme-stats.vercel.app/api?username=ffmpenna&show_icons=true&theme=merko'/>
- <img height="160em" width="400" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ffmpenna&theme=merko'/>
-</div>
-
-## Languages & Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/> 
-<br/>
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="80" height="80"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="80"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="80"/>
+# Ei você! Seja bem-vindo ao meu perfil! 👋 
+<img align="right" width="25%" src="https://github.com/ffmpenna/ffmpenna/assets/106782125/992c9e4e-67c5-4893-8e2e-f1bde1a24675" />
+Sou um <strong>Desenvolvedor Web Full Stack</strong> formado pela <a href='https://www.linkedin.com/school/betrybe/?originalSubdomain=br'>Trybe</a>! 👨‍💻<br><br>
+Desde que me lembro, tenho uma <strong>vocação</strong> natural para <strong>ajudar</strong> as pessoas e tenho gosto de tornar suas vidas um pouco mais <strong>simples</strong>.<br>
+Com o tempo, percebi que a <strong>tecnologia</strong> se tornou uma ferramenta incrível para isso, me permitindo fazer coisas e <strong>solucinar problemas</strong> na vida das pessoas como em passe de <strong>mágica</strong>. ✨
