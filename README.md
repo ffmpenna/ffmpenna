@@ -2,7 +2,7 @@
 
 # Ei você! Seja bem-vindo ao meu perfil! 👋
 
-<img align="right" width="37%" title="tech wizard" src="https://github.com/ffmpenna/ffmpenna/assets/106782125/992c9e4e-67c5-4893-8e2e-f1bde1a24675" />
+<img align="right" width="25%" title="tech wizard" src="https://github.com/ffmpenna/ffmpenna/assets/106782125/992c9e4e-67c5-4893-8e2e-f1bde1a24675" />
 
 Sou um **Desenvolvedor Web Full Stack** formado pela <a href='https://www.linkedin.com/school/betrybe/?originalSubdomain=br'>Trybe</a>! 👨‍💻<br><br>
 
