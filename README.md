@@ -10,4 +10,6 @@ Desde que me lembro, tenho uma **vocação** natural para **ajudar** as pessoas 
 Com o tempo, percebi que a **tecnologia** se tornou uma ferramenta incrível para isso, me permitindo fazer coisas e **solucinar problemas** na vida das pessoas como em um passe de **mágica**. ✨
 <br><br>
 
-# ![My Skills](https://skillicons.dev/icons?i=ts,css,react,docker,sequelize,mongodb,nodejs,jest,bootstrap,py,mysql)
+## Minhas Stacks Favoritas ⭐
+
+![My Skills](https://skillicons.dev/icons?i=ts,css,react,docker,sequelize,mongodb,nodejs,jest,bootstrap,py,mysql)
